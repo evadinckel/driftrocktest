@@ -52,11 +52,11 @@ You will then need to install gems/dependencies by running the following
 ```
 - Next:
 ```
-You will see a list of users by running the following script:
+You will see the list of users from the API by running the following script:
 $ ruby ./lib/users.rb
 ```
 ```
-You will see a list of purchases by running the following script:
+You will see the list of purchases by running the following script:
 $ ruby ./lib/purchases.rb
 ```
 
